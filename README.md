@@ -1,2 +1,24 @@
 # starter01
 Tạo trang web cho người mới bắt đầu
+
+## Mã nguồn
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome</title>
+</head>
+
+<body>
+    <h1>Chào mừng bạn đến với Website đầu tiên của tôi</h1>
+    <hr>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam esse dicta optio quaerat perspiciatis voluptas repudiandae soluta eos alias odio, architecto quisquam et, unde quidem, ipsum quis ipsa nemo placeat.</p>
+</body>
+
+</html>
+```
+## Kết quả
+![Kết quả](screenshots/s1.png)
